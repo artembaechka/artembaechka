@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Artem but my friends calls me "baechka"
 
-Skills: Python / React / System Administration / DevOps
+Skills: Python / React / DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,linux,docker,git)](https://artembay.ru)
 
