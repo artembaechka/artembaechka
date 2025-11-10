@@ -17,6 +17,6 @@ From december 2024 to june 2025 developed [@StreamYam](https://github.com/stream
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamyam&repo=frontend&show_owner=true&theme=github_dark_dimmed" />
 </a>
 
-Some cards with stats for github kids
+Wakatime stats for github kids
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=baechka&api_domain=waka.artembay.ru&theme=github_dark_dimmed&custom_title=Stats+%28All+Time%29&display_format=percent&langs_count=10&hide=unknown)
