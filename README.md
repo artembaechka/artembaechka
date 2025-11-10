@@ -11,10 +11,10 @@ Skills: Python / React / HTML / CSS / System Administration / DevOps
 From december 2024 to june 2025 developed [@StreamYam](https://github.com/streamyam)
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamyam&repo=backend&theme=github_dark_dimmed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamyam&repo=backend&show_owner=true&theme=github_dark_dimmed" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamyam&repo=frontend&theme=github_dark_dimmed" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=streamyam&repo=frontend&show_owner=true&theme=github_dark_dimmed" />
 </a>
 
 Some cards with stats for github nerds
