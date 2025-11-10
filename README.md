@@ -4,7 +4,7 @@ Skills: Python / React / System Administration / DevOps
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,linux,docker,git)](https://artembay.ru)
 
-- 🌱 Main direction is backend and devops but sometimes i works as frontend and designer 
+- 🌱 Main direction is backend and DevOps but sometimes i works as frontend and designer 
 - 📫 How to reach me: https://t.me/pmartembay or hello@artembay.ru
 - 💻 My website: https://artembay.ru
 
