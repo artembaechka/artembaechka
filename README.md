@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artem but my friends calls me "baechka" (Баечка для русских)
+### Hi there 👋, my name is Artem but my friends calls me "baechka"
 
 Skills: Python / React / System Administration / DevOps
 
