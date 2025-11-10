@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Artem but my friends calls me "baechka" (Баечка для русских)
 
-Skills: Python / React / HTML / CSS / System Administration / DevOps
+Skills: Python / React / System Administration / DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,html,css,cloudflare,linux,docker,git)](https://artembay.ru)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,postgres,inux,docker,git)](https://artembay.ru)
 
-- 🌱 I’m currently learning Python  
+- 🌱 Main direction is backend and devops but sometimes i works as frontend and designer 
 - 📫 How to reach me: https://t.me/pmartembay or hello@artembay.ru
 - 💻 My website: https://artembay.ru
 
